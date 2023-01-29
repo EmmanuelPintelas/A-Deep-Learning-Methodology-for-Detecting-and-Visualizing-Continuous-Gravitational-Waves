@@ -11,4 +11,4 @@ https://www.kaggle.com/datasets/emmanuelpintelas/gw-datasets
 
 while the implementation code of the proposed methodology alongside with the code used for all experimental simulations can be found in the following link:
 
-https://www.kaggle.com/emmanuelpintelas/dl-tool-box-tr-pipeline-for-detecting-c-gws/edit
+https://www.kaggle.com/code/emmanuelpintelas/dl-tool-box-tr-pipeline-for-detecting-c-gws?scriptVersionId=117493335
